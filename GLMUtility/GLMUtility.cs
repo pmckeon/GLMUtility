@@ -178,7 +178,7 @@ namespace GLMUtility
             OpenFileDialog fileDialog = new OpenFileDialog()
             {
                 Filter = "All files (*.*)|*.*",
-                Title = "Open glm file",
+                Title = "Select files to add",
                 Multiselect = true
             };
 
